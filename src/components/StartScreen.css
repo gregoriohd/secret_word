@@ -1,0 +1,21 @@
+.start h1{
+    font-size: 3.5em;
+}
+
+.start p{
+    margin-bottom: 2em;
+    color: yellow;
+}
+
+.start{
+        padding: 25em;
+}
+
+.start h1 span{
+    font-family: Impact;
+        -webkit-text-stroke-width: 5px;
+        -webkit-text-stroke-color: rgb(164, 39, 214);
+        font-size: 2em;
+        color:rgb(255, 214, 127);
+
+}
